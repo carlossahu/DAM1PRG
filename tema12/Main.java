@@ -6,7 +6,7 @@ import com.programacionOO.tema12.practica02.Practica02;
 public class Main {
     public static void main(String[] args) {
         if (args.length != 1){
-            System.out.println("Please enter an string");
+            System.out.println("Please enter an miausa");
             System.exit(0);
         }
 //        Practica01 practica01 = new Practica01(args[0]);
